@@ -7,7 +7,14 @@
 ---
 
 ## 🎯 Objetivo
-Desenvolvedor Front-End Júnior com habilidades em **JavaScript** e **React**, em transição de carreira da área da saúde para TI. Destaco atenção a detalhes (aprimorada em ambientes hospitalares) unida a conhecimentos técnicos em desenvolvimento web para criar interfaces eficientes e acessíveis.
+Profissional em transição de carreira da área da saúde para a tecnologia, atualmente 
+atuando como Técnico de Enfermagem. Com sólida vivência hospitalar, busca aplicar 
+seu conhecimento prático em ambientes clínicos para contribuir no desenvolvimento 
+de sistemas médicos eficientes e centrados no usuário. Experiência com 
+desenvolvimento de aplicações simples em JavaScript, TypeScript e C#, utilizando 
+boas práticas de versionamento com Git/GitHub. Familiarizado com metodologias 
+ágeis como Scrum e práticas colaborativas em equipes multidisciplinares. Proativo, 
+comunicativo e em constante aprendizado
 
 ---
 
